@@ -1,0 +1,2 @@
+# NumpyPractice
+Math within Python
