@@ -30,6 +30,7 @@ Get the data type of an array object
 arr = np.array([1, 2, 3, 4])
 
 print(arr.dtype) 
+O/P: int64
 
 #Get the data type of an array containing strings:
 arr = np.array(['apple', 'banana', 'cherry'])
